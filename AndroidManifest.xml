@@ -12,5 +12,6 @@
             </intent-filter>
         </activity>
 	    <activity android:name="GitInitActivity1" android:label="@string/app_name"/>
+	    <activity android:name="GitInitActivity2" android:label="@string/app_name"/>
     </application>
 </manifest> 
