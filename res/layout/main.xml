@@ -9,5 +9,10 @@
     android:layout_height="wrap_content" 
     android:text="Hello World, GitInitActivity"
     />
+<Button
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Click Me"
+    />
 </LinearLayout>
 
